@@ -1,0 +1,72 @@
+C:/Users/╠ръёшь/Desktop/data\gc_1000_1 33
+
+C:/Users/╠ръёшь/Desktop/data\gc_1000_3 76
+
+C:/Users/╠ръёшь/Desktop/data\gc_1000_5 127
+
+C:/Users/╠ръёшь/Desktop/data\gc_1000_7 199
+
+C:/Users/╠ръёшь/Desktop/data\gc_1000_9 326
+
+C:/Users/╠ръёшь/Desktop/data\gc_100_1 7
+
+C:/Users/╠ръёшь/Desktop/data\gc_100_3 15
+
+C:/Users/╠ръёшь/Desktop/data\gc_100_5 23
+
+C:/Users/╠ръёшь/Desktop/data\gc_100_7 29
+
+C:/Users/╠ръёшь/Desktop/data\gc_100_9 47
+
+C:/Users/╠ръёшь/Desktop/data\gc_20_1 4
+
+C:/Users/╠ръёшь/Desktop/data\gc_20_3 5 - верно
+
+C:/Users/╠ръёшь/Desktop/data\gc_20_5 8
+
+C:/Users/╠ръёшь/Desktop/data\gc_20_7 10
+
+C:/Users/╠ръёшь/Desktop/data\gc_20_9 11 - верно
+
+C:/Users/╠ръёшь/Desktop/data\gc_250_1 12
+
+C:/Users/╠ръёшь/Desktop/data\gc_250_3 28
+
+C:/Users/╠ръёшь/Desktop/data\gc_250_5 43
+
+C:/Users/╠ръёшь/Desktop/data\gc_250_7 60 - верно
+
+C:/Users/╠ръёшь/Desktop/data\gc_250_9 100
+
+C:/Users/╠ръёшь/Desktop/data\gc_4_1 2 - верно
+
+C:/Users/╠ръёшь/Desktop/data\gc_500_1 20
+
+C:/Users/╠ръёшь/Desktop/data\gc_500_3 45
+
+C:/Users/╠ръёшь/Desktop/data\gc_500_5 73
+
+C:/Users/╠ръёшь/Desktop/data\gc_500_7 111
+
+C:/Users/╠ръёшь/Desktop/data\gc_500_9 175
+
+C:/Users/╠ръёшь/Desktop/data\gc_50_1 6
+
+C:/Users/╠ръёшь/Desktop/data\gc_50_3 9
+
+C:/Users/╠ръёшь/Desktop/data\gc_50_5 13
+
+C:/Users/╠ръёшь/Desktop/data\gc_50_7 18
+
+C:/Users/╠ръёшь/Desktop/data\gc_50_9 25
+
+C:/Users/╠ръёшь/Desktop/data\gc_70_1 5 - верно
+
+C:/Users/╠ръёшь/Desktop/data\gc_70_3 11
+
+C:/Users/╠ръёшь/Desktop/data\gc_70_5 17
+
+C:/Users/╠ръёшь/Desktop/data\gc_70_7 23
+
+C:/Users/╠ръёшь/Desktop/data\gc_70_9 35
+
